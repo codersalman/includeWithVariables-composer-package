@@ -1,0 +1,18 @@
+{
+  "name": "codersalman/include-with-variables",
+  "description": "A library that includes a file with variables",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Salman Shaikh",
+      "email": "coder88salman@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "files": ["vendor/codersalman/includeWithVariables/functions.php"]
+  }
+}
